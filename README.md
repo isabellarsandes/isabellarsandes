@@ -70,16 +70,6 @@ Hoje curso pós-graduação em Data Analytics na FIAP, onde tenho aplicado Pytho
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=isabellarsandes&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellarsandes&layout=compact&theme=default&hide_border=true&hide_title=true" />
-</p>
-
----
-
 <p align="center">
   <sub>Disponível para CLT em Análise de Dados e Business Intelligence · São Paulo e remoto</sub>
 </p>
