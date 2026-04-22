@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-isabellarodriguessandes%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Aberta_a_oportunidades_CLT-disponível-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aberta_a_oportunidades-disponível-4CAF50?style=flat-square" />
 </p>
 
 ---
