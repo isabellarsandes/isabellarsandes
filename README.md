@@ -20,7 +20,7 @@
 
 ## Sobre
 
-Trabalhei por quase 6 anos no Banco BV, na sustentação e evolução das plataformas de Speech e Text Analytics, em um ambiente auditado por BACEN, ANBIMA e CVM. Nos últimos dois anos fui migrando para a análise de dados: comecei construindo um dashboard para a área de Cobrança que substituiu um processo manual de acompanhamento de volumetria. A solução foi replicada para mais três áreas (Atendimento, Churn e Ouvidoria) e evoluiu para incluir controle de consumo de cloud versus licenças disponíveis, o que resultou em redução efetiva de custos. Também contribuí com a unificação de três aplicações em uma, simplificando a operação e reduzindo incidentes.
+Trabalhei por quase 6 anos no Banco BV, na sustentação e evolução das plataformas de Speech e Text Analytics, em um ambiente auditado por BACEN, ANBIMA e CVM. Nos últimos dois anos fui migrando para a análise de dados. Comecei construindo um dashboard para a área de Cobrança que substituiu um processo manual de acompanhamento de volumetria. A solução foi replicada para mais três áreas (Atendimento, Churn e Ouvidoria) e evoluiu para incluir controle de consumo de cloud versus licenças disponíveis, o que resultou em redução efetiva de custos. Também contribuí com a unificação de três aplicações em uma, simplificando a operação e reduzindo incidentes.
 
 Hoje curso pós-graduação em Data Analytics na FIAP e desenvolvo projetos próprios com Python e Machine Learning. Formada em Ciência da Computação pela Anhembi Morumbi.
 
