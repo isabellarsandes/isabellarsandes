@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-isabellarodriguessandes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Aberta_a_oportunidades_CLT-disponível-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aberta_a_oportunidades-disponível-4CAF50?style=flat-square" />
 </p>
 
 ---
