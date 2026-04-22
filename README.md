@@ -71,5 +71,5 @@ Hoje curso pós-graduação em Data Analytics na FIAP, onde tenho aplicado Pytho
 ---
 
 <p align="center">
-  <sub>Disponível para CLT em Análise de Dados e Business Intelligence · São Paulo e remoto</sub>
+  <sub>Disponível para novas oportunidades · São Paulo e remoto</sub>
 </p>
